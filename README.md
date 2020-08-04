@@ -3,7 +3,7 @@
 <p>
 <!-- <em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> -->
 
-</br>Mobile Team Leader at <a href="https://stefanini.com/pt-br">Stefanini Group</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</br>Mobile Team Leader at <a href="https://stefanini.com/pt-br">Stefanini Group</a>
 </em></p>
 
 [![Twitter: Juninhork](https://img.shields.io/twitter/follow/juninhork?style=social)](https://twitter.com/juninhork)
