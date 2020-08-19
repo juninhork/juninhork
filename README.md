@@ -1,4 +1,4 @@
-<h2> Hi, I'm Paulo Braga Junior! <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Paulo Braga de Assis Junior! <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 <p>
 
